@@ -1,0 +1,13 @@
+https://learn.microsoft.com/es-es/devops/develop/git/what-is-version-control
+/*Fuente usada para la primera pregunta*/
+
+https://kinsta.com/es/blog/git-vs-github/
+https://desarrolladoresweb.org/github/github-todo-lo-que-debes-saber-sobre-guia-completa-y-detallada/
+Diferencias entre Git y GitHub
+Todo el apartado de las definiciones:
+https://aws.amazon.com/es/what-is/repo/
+https://keepcoding.io/desarrollo-web/que-es-un-commit-en-git/
+https://keepcoding.io/desarrollo-web/que-son-las-ramas-en-git/
+https://www.atlassian.com/es/git/tutorials/using-branches/git-merge
+https://docs.github.com/es/pull-requests/get-started/about-pull-requests
+https://git-scm.com/docs/gitignore
