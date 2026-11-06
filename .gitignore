@@ -1,0 +1,20 @@
+# Entornos virtuales
+venv/
+.venv/
+/opt/venv
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Archivos del sistema e IDEs
+.DS_Store
+.vscode/
+.idea/
+
+# IMPORTANTE: No excluir archivos .jff ni Markdown
+!.jff
+!.md
